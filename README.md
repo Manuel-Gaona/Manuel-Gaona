@@ -16,16 +16,13 @@ Soy un apasionado del desarrollo de software. Actualmente estudio en la Universi
 
 ## Redes Sociales
 
-
-| **Github** | **LinkedIn** |
+| **GitHub** | **LinkedIn** |
 |:----------:|:------------:|
-| [![linkGitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](linkGithub) | [![linkLinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkLinkedIn) |
+| [![GitHub Badge](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuel-Gaona) | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mgaonahdz) |
 
-[linkGithub]: https://github.com/Manuel-Gaona
-[linkLinkedIn]: https://linkedin.com/in/mgaonahdz
 
 > [!IMPORTANT]
-> **🖥️ Puedes ver mi portafolio completo en** [www.mgaona.software](http://mgaona.software) 
+> **🖥️ Puedes ver mi portafolio completo en** [mgaona.software](http://mgaona.software) 
 
 > [!NOTE]
 > ¡Siempre estoy buscando nuevas cosas para aprender!
